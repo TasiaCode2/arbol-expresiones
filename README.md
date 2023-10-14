@@ -1,5 +1,7 @@
 # Árbol de expresiones
 
+La forma más fácil de probarlo es la siguiente notebook: https://colab.research.google.com/drive/19DonbaO4txXXzEJbgH1zAAkdNLvLokWL?usp=sharing
+
 ### Funciones:
 - Validación de caracteres permitidos y prohibidos
 - Validación de operadores 
